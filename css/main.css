@@ -1,1 +1,96 @@
 /* Los estilos de tu proyecto */
+.first-section{
+        background-image: url(../assets/images/taxi.jpg);
+        height: 100vh;
+        background-size: cover;
+        background-position: bottom;
+        margin:0;
+        z-index: -200;
+}
+.color{
+    background-color: #F7B617;
+    margin-top: 15%;
+}
+.line{
+    padding-bottom: 15px;
+}
+.secont-section{
+    background-color: #F7B617;
+}
+.linea{
+     border: 1px solid white;
+     margin-top: 30px;
+     margin-bottom: 30px;
+}
+.left {
+    margin-top: 30px;
+    padding-left: 10%;
+    text-align: left;
+    color: white;
+    
+}
+
+.left h3 {
+    margin: 0;
+}
+.tree-section {
+    background-image: url(../assets/images/conduce.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: bottom;
+    background-position-y: center;
+    margin:0;
+    z-index: -200;
+}
+.espacio{
+    line-height: 25px;
+}
+.ajusteImagen  {
+        margin-top: 7px;
+        margin-left: 80px;
+        width: 250px;  
+}
+.color2{
+    margin-top: 10%;
+}
+.fourt-section{
+    background-color: #F7B617;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.ajusteInput{
+    width: 50%;
+    margin-left: 40px;
+}
+.grey{
+  background-color: #2B2B2B;
+  
+}
+li{
+    list-style: none;
+    
+}
+li a, .footer-copyright {
+    color: white;
+}
+.fa{
+    background-color: white;
+}
+.ajuste{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.black{
+    color: black;
+}
+.icon-social-facebook:before {
+    content: "\e901";
+    background-color: white;
+  }
+ hr{
+    width: 95%;
+ } 
+#sinmargen{
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+}
